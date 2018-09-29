@@ -1,0 +1,9 @@
+.transaction{
+  width: 80%;
+  height: 80px;
+  border: 2px gray;
+}
+
+.amount{
+  color: green;
+}
